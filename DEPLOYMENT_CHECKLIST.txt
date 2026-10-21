@@ -1,0 +1,41 @@
+DEPLOYMENT CHECKLIST — SUMIT KOSHTI PORTFOLIO 2026
+
+OPTION A — Use your existing GitHub Pages repository
+1. Download/unzip this portfolio.
+2. Put your PDF resume in:
+   assets/Sumit_Koshti_Data_Analyst_Resume.pdf
+3. Open the folder and check index.html.
+4. Replace the files in your existing GitHub repository.
+5. Commit changes.
+6. Open your existing GitHub Pages URL and refresh.
+
+OPTION B — Create a new repository
+1. GitHub → New repository.
+2. Name it: portfolio (or My_Portfolio_2026).
+3. Upload index.html, style.css, script.js and the assets folder.
+4. Commit.
+5. Repository → Settings → Pages.
+6. Under "Build and deployment", choose "Deploy from a branch".
+7. Choose branch `main` and folder `/ (root)`.
+8. Save.
+9. GitHub Pages will publish the site.
+
+RECRUITER URL
+Your project-site URL will normally be:
+https://YOUR-USERNAME.github.io/portfolio/
+
+If you create a user site repository named YOUR-USERNAME.github.io, the URL becomes:
+https://YOUR-USERNAME.github.io/
+
+RECOMMENDED
+Use the user-site format if you want the cleanest recruiter URL.
+
+CUSTOM DOMAIN (OPTIONAL)
+You can later buy a domain such as:
+www.sumitkoshti.com
+or another available professional domain.
+Then configure it under Repository → Settings → Pages → Custom domain.
+GitHub Pages supports custom domains and HTTPS.
+
+IMPORTANT
+Do not publish passwords, private datasets, API keys, personal documents other than the resume you intentionally want public, or confidential employer information.
